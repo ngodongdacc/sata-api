@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0OOuRQ9eCIoQf4fU4EyZgQakXfDyrg5g3QNqUoqHIvA=",
+  "Source": "SATO.API",
+  "BasePath": "_content/SATO.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

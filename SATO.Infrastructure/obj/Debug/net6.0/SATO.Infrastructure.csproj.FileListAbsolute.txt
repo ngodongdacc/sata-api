@@ -1,0 +1,17 @@
+D:\NTBAN\SATO.API\SATO.Infrastructure\obj\Debug\net6.0\SATO.Infrastructure.csproj.AssemblyReference.cache
+D:\NTBAN\SATO.API\SATO.Infrastructure\obj\Debug\net6.0\SATO.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\NTBAN\SATO.API\SATO.Infrastructure\obj\Debug\net6.0\SATO.Infrastructure.AssemblyInfoInputs.cache
+D:\NTBAN\SATO.API\SATO.Infrastructure\obj\Debug\net6.0\SATO.Infrastructure.AssemblyInfo.cs
+D:\NTBAN\SATO.API\SATO.Infrastructure\obj\Debug\net6.0\SATO.Infrastructure.csproj.CoreCompileInputs.cache
+D:\NTBAN\SATO.API\SATO.Infrastructure\bin\Debug\net6.0\SATO.Infrastructure.deps.json
+D:\NTBAN\SATO.API\SATO.Infrastructure\bin\Debug\net6.0\SATO.Infrastructure.runtimeconfig.json
+D:\NTBAN\SATO.API\SATO.Infrastructure\bin\Debug\net6.0\SATO.Infrastructure.dll
+D:\NTBAN\SATO.API\SATO.Infrastructure\bin\Debug\net6.0\SATO.Infrastructure.pdb
+D:\NTBAN\SATO.API\SATO.Infrastructure\obj\Debug\net6.0\SATO.Infrastructure.dll
+D:\NTBAN\SATO.API\SATO.Infrastructure\obj\Debug\net6.0\refint\SATO.Infrastructure.dll
+D:\NTBAN\SATO.API\SATO.Infrastructure\obj\Debug\net6.0\SATO.Infrastructure.pdb
+D:\NTBAN\SATO.API\SATO.Infrastructure\obj\Debug\net6.0\SATO.Infrastructure.genruntimeconfig.cache
+D:\NTBAN\SATO.API\SATO.Infrastructure\obj\Debug\net6.0\ref\SATO.Infrastructure.dll
+D:\NTBAN\SATO.API\SATO.Infrastructure\bin\Debug\net6.0\SATO.Entities.dll
+D:\NTBAN\SATO.API\SATO.Infrastructure\bin\Debug\net6.0\SATO.Entities.pdb
+D:\NTBAN\SATO.API\SATO.Infrastructure\obj\Debug\net6.0\SATO.Infrastructure.csproj.CopyComplete

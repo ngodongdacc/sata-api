@@ -1,0 +1,14 @@
+D:\NTBAN\SATO.API\SATO.Entities\bin\Debug\net6.0\SATO.Entities.deps.json
+D:\NTBAN\SATO.API\SATO.Entities\bin\Debug\net6.0\SATO.Entities.runtimeconfig.json
+D:\NTBAN\SATO.API\SATO.Entities\bin\Debug\net6.0\SATO.Entities.dll
+D:\NTBAN\SATO.API\SATO.Entities\bin\Debug\net6.0\SATO.Entities.pdb
+D:\NTBAN\SATO.API\SATO.Entities\obj\Debug\net6.0\SATO.Entities.csproj.AssemblyReference.cache
+D:\NTBAN\SATO.API\SATO.Entities\obj\Debug\net6.0\SATO.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\NTBAN\SATO.API\SATO.Entities\obj\Debug\net6.0\SATO.Entities.AssemblyInfoInputs.cache
+D:\NTBAN\SATO.API\SATO.Entities\obj\Debug\net6.0\SATO.Entities.AssemblyInfo.cs
+D:\NTBAN\SATO.API\SATO.Entities\obj\Debug\net6.0\SATO.Entities.csproj.CoreCompileInputs.cache
+D:\NTBAN\SATO.API\SATO.Entities\obj\Debug\net6.0\SATO.Entities.dll
+D:\NTBAN\SATO.API\SATO.Entities\obj\Debug\net6.0\refint\SATO.Entities.dll
+D:\NTBAN\SATO.API\SATO.Entities\obj\Debug\net6.0\SATO.Entities.pdb
+D:\NTBAN\SATO.API\SATO.Entities\obj\Debug\net6.0\SATO.Entities.genruntimeconfig.cache
+D:\NTBAN\SATO.API\SATO.Entities\obj\Debug\net6.0\ref\SATO.Entities.dll
